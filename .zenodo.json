@@ -5,8 +5,10 @@
         }
     ],
     "title": "thermal-capture",
-    "description": "<p>This repository holds research on contained thermal systems. It asks whether heat in ordinary air can be turned into electricity, and tests each route against measured numbers.</p><p>Status: research direction only. No device has been built under this project. No result is claimed beyond the published work cited in DIRECTION.md.</p><p>Directed by Ahraz Arifuddin</p><p>Researched and verified by different model families across Gemini, Claude, Grok, OpenAI, and Muse</p>",
+    "description": "<p>This repository holds research on contained thermal systems. It asks whether heat in ordinary air can be turned into electricity, and tests each route against measured numbers.</p><p>Status: research direction only. No device has been built under this project. No result is claimed beyond the published work cited in DIRECTION.md.</p><p>Directed by Ahraz Arifuddin</p><p>Researched and verified by different model families across Gemini, Claude, Grok, OpenAI, and Muse</p><p>Code (including program files such as *.py) is Apache License 2.0. Text and data (README.md, INQUISITION.md, DIRECTION.md, and any data or derived data files in the repository) are Creative Commons Attribution 4.0 International (CC BY 4.0); see LICENSE-DOCS.</p>",
     "upload_type": "software",
+    "license": "apache-2.0",
+    "access_right": "open",
     "keywords": [
         "thermal-systems",
         "atmosphere",
