@@ -1,0 +1,23 @@
+{
+    "creators": [
+        {
+            "name": "Arifuddin, Ahraz"
+        }
+    ],
+    "title": "thermal-capture",
+    "description": "<p>This repository holds research on contained thermal systems. It asks whether heat in ordinary air can be turned into electricity, and tests each route against measured numbers.</p><p>Status: research direction only. No device has been built under this project. No result is claimed beyond the published work cited in DIRECTION.md.</p><p>Directed by Ahraz Arifuddin</p><p>Researched and verified by different model families across Gemini, Claude, Grok, OpenAI, and Muse</p>",
+    "upload_type": "software",
+    "keywords": [
+        "thermal-systems",
+        "atmosphere",
+        "electricity"
+    ],
+    "related_identifiers": [
+        {
+            "identifier": "https://github.com/Foundation-0/thermal-capture",
+            "relation": "isSupplementTo",
+            "scheme": "url",
+            "resource_type": "software"
+        }
+    ]
+}
